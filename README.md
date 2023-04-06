@@ -1,4 +1,4 @@
-# Sentiment Analysis Project in Python
+# Basic Sentiment Analysis Project Using Bag of Words and Negation
 
 ### 
 
